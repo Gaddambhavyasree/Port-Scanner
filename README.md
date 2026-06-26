@@ -23,3 +23,17 @@ No external libraries are required.
 3. Run the file with ./filename
 4. After running take any sample ip (Metasploit) and enter the ip address and Starting and ending ports to scan.
 <img width="327" height="322" alt="Screenshot 2026-06-26 214654" src="https://github.com/user-attachments/assets/5535cfbb-cbee-4239-a249-391445b26764" />
+
+
+## Controlled Environment
+
+This project was developed and tested in a controlled lab environment.
+
+Testing was performed only on:
+- Metasploit ip (Virtualbox)
+- Personally owned systems
+- Intentionally vulnerable or test machines
+
+Do not scan systems without proper authorization.
+
+Unauthorized port scanning may violate laws, organizational policies, or network rules. Always obtain permission before performing security testing.
